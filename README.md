@@ -1,6 +1,13 @@
-### pok3r layout
-==============
+## pok3r layout
 [Pok3r User Manual](resources/vortex_20151228744687740.pdf)
+
+### Layer 2 (Blue) Programming
+ - `CAPS_LOCK` acts as `Fn` (Dip switch 3 `ON`)
+ - `Fn` + `HJKL` as arrow keys (Vi behavior)
+ - `Fn` + `I` as `Home`
+ - Swap `L_Alt` and `Win/Cmd` for correct Mac keyboard positions
+ - `R_Alt` as `Win/Cmd`
+ - Media key behavior for `0` `-` and `+` as `Mute` `Vol-` and `Vol+`
 
 ![Layer 2 Layout](img/layer-2.png)
 
