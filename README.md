@@ -1,5 +1,6 @@
 ### pok3r layout
 ==============
+[Pok3r User Manual](resources/vortex_20151228744687740.pdf)
 
 ![Layer 2 Layout](img/layer-2.png)
 
