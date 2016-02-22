@@ -3,10 +3,12 @@
 
 ### Layer 2 (Blue) Programming
  - `CAPS_LOCK` acts as `Fn` (Dip switch 3 `ON`)
+ - `CAPS_LOCK` + `L_Alt` as `Fn` + `Win/Cmd`
+ - `CAPS_LOCK` + `R_Alt` as `Fn` + `Win/Cmd`
  - `Fn` + `HJKL` as arrow keys (Vi behavior)
  - `Fn` + `I` as `Home`
- - Swap `L_Alt` and `Win/Cmd` for correct Mac keyboard positions
  - `R_Alt` as `Win/Cmd`
+ - Swap `L_Alt` and `Win/Cmd` for correct Mac keyboard positions
  - Media key behavior for `0` `-` and `+` as `Mute` `Vol-` and `Vol+`
 
 ![Layer 2 Layout](img/layer-2.png)
